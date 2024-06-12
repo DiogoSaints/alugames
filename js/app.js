@@ -14,9 +14,6 @@ function alterarStatus(id){
     }else{
         botao.classList.add('dashboard__item__button--return');
 
-        
-
-
     }
 }
  
