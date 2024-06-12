@@ -13,6 +13,8 @@ function alterarStatus(id){
         botao.classList.remove('dashboard__item__button--return');
     }else{
         botao.classList.add('dashboard__item__button--return');
+
+        
     }
 }
-
+ 
